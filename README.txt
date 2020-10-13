@@ -1,0 +1,1 @@
+a program that gives you an up to date picture of the chart of any stock in the Persian stock market
